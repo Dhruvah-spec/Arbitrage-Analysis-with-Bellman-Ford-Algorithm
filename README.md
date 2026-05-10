@@ -31,6 +31,6 @@ An arbitrage opportunity would exist for values of r > 1. For this study, values
 ## Findings
 - Over the 5 day sample more than 13,000 opportunities were detected. The average profitability, however was very low at only 0.0016% and over 62% of the identified opportunities vanished within less than a second
 
--Currencies like the USD and CNH were the most important for enabling arbitrage opportunities. Over 98% of the identified opportunities involved a CNH to USD conversion. Currencies having USD CNH conversions also showed the strongest cross-correlations. On the other hand, the GBF and CHF played very minor roles in enabling arbitrage, rarely featuring in an opportunity.
+- Currencies like the USD and CNH were the most important for enabling arbitrage opportunities. Over 98% of the identified opportunities involved a CNH to USD conversion. Currencies having USD CNH conversions also showed the strongest cross-correlations. On the other hand, the GBF and CHF played very minor roles in enabling arbitrage, rarely featuring in an opportunity.
 
--The largest number of opportunities was observed between hours 6:00 UTC and 16:00 UTC which coincides with the London sessions which is the most active market period in Europe. This suggests the importance of liquidty for creating arbitrage opportunities. 
+- The largest number of opportunities was observed between hours 6:00 UTC and 16:00 UTC which coincides with the London sessions which is the most active market period in Europe. This suggests the importance of liquidty for creating arbitrage opportunities. 
